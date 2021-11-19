@@ -5,8 +5,10 @@
 # Подготовка репозитория
 
 Прописать пользователя
-    * git config user.name "name"
-    * git config user.email "email@mail.com"
+    
+* git config user.name "name"
+
+* git config user.email "email@mail.com"
 
 Можно прописать пользователя локально, только в данном репозитории
 *git config --local ...
